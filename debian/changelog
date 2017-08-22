@@ -1,3 +1,9 @@
+go-dlib (1.0.5-3pardus2) onyedi; urgency=medium
+
+  * Update control file and bump the version
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 22 Aug 2017 14:24:08 +0300
+
 go-dlib (1.0.5-2pardus1) onyedi; urgency=medium
 
   * Update control file
