@@ -1,0 +1,11 @@
+go-dlib (1.0.5-2pardus1) onyedi; urgency=medium
+
+  * Update control file
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 22 Aug 2017 14:08:11 +0300
+
+go-dlib (1.0.5-2) unstable; urgency=low
+
+  * Auto Version update.
+
+ -- shuttle <shuttle@deepin.com>  Wed, 28 Jun 2017 02:57:34 +0000
